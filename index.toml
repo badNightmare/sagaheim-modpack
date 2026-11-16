@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/tweakeroo.json"
+hash = "ab79ea02c95890f6183881105b37f95d479214837f763008bd77f313a11184aa"
+preserve = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
 metafile = true
@@ -144,3 +149,13 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "7b82bfcde20d2ac0fb158c003caf5288523272ca462f519864ee424912e4e4dd"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "119da35d8aa7bc721adef7da342b17ed16a7102a62a5985696073864a86a3898"
+preserve = true
+
+[[files]]
+file = "servers.dat"
+hash = "679edc72e6b33a6bd454a4c2904ef16aea017f5ab65b7d5f9c6afc18f74a058e"
+preserve = true
