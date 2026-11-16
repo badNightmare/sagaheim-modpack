@@ -6,6 +6,11 @@ hash = "ab79ea02c95890f6183881105b37f95d479214837f763008bd77f313a11184aa"
 preserve = true
 
 [[files]]
+file = "config/xaerohud.txt"
+hash = "9410cb6e75c3d7e506375c2a39bc3231978aae4fd487163a2acf3a9339ed95d3"
+preserve = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
 metafile = true
@@ -159,3 +164,43 @@ preserve = true
 file = "servers.dat"
 hash = "679edc72e6b33a6bd454a4c2904ef16aea017f5ab65b7d5f9c6afc18f74a058e"
 preserve = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "8e9066219882825d46a80f11057be2eacde6245780b42c49b8c8c3cb3921c893"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "507cb3963240110bc71ed7c75cac1682e66d3609536b0bc5ef90a01db3cce21f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "d28a3f3e991a4d65cda9d18b37bc3672bc87f3e04aeeaf47b59d7e63581e3c3f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "9baf21bbd0e4b4145587ce8c0398bd95517189c102a2ce8476b5a561ca353238"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3dd66fbe29d1f5e00305e2851666de8b359584fa48c787736e233fe56ccb6992"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-basic-shaders.pw.toml"
+hash = "64e94a65f181083ddfe6af7e501e5a34402890e03c9eab9e6f2794115e8c85d9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-enhanced-default-shaders.pw.toml"
+hash = "40253b59b3bf606bb29ed544c6307220507f57af4eb4b3fb9f70e5e951a97a95"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "9545f493d5d2f02794eabd87aeb2fb3c6ba58a38590c2abfaea13424dccd2763"
+metafile = true
