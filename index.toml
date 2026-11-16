@@ -161,6 +161,26 @@ hash = "119da35d8aa7bc721adef7da342b17ed16a7102a62a5985696073864a86a3898"
 preserve = true
 
 [[files]]
+file = "resourcepacks/3d-default.pw.toml"
+hash = "d7300c50c99cb070515a5043ed7480704378658e00de5f68610c7cd3606b9dfe"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "8471b70022e13faced943b6377e0e35c873ed422692025a24c806c462f89674e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b588662439509c0c1779965edc119b4091d7409e127109fac256570d9a61f872"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-exp.pw.toml"
+hash = "03191ca51d9112e2fdaa4383f659884eb2d051c0306878d0f3546ef8dae00d3b"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "679edc72e6b33a6bd454a4c2904ef16aea017f5ab65b7d5f9c6afc18f74a058e"
 preserve = true
