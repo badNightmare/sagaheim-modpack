@@ -176,6 +176,11 @@ hash = "b588662439509c0c1779965edc119b4091d7409e127109fac256570d9a61f872"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
+hash = "a3506f1f956bb5c076433dae2c43da199ef4fae79637a9d76e92472ea696f7ae"
+metafile = true
+
+[[files]]
 file = "resourcepacks/vanilla-exp.pw.toml"
 hash = "03191ca51d9112e2fdaa4383f659884eb2d051c0306878d0f3546ef8dae00d3b"
 metafile = true
