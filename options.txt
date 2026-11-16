@@ -65,7 +65,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/§6§lVanilla Experience+§0.zip","file/R_DO_\u0026_AD_1.4.1.zip","file/Default-Dark-Mode-26.3-2026.9.0.zip"]
+resourcePacks:["vanilla","file/§6§lVanilla Experience+§0.zip","file/3D Default 1.21.2+ v1.16.0.zip","file/Fresh Flowers and Plants.zip","file/FreshAnimations_v1.11.2_26.1+.zip","file/Default-Dark-Mode-26.3-2026.9.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
