@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cameraoverhaul.toml"
+hash = "cdc0f14abed698608f0156342fcdc26d96e47aa00452f41e4f5739740fe67aea"
+preserve = true
+
+[[files]]
 file = "config/iris.properties"
 hash = "a663f32273554bb15ba47f857c73bd70ea54a963df6684c29b56824d4b6f630a"
 preserve = true
